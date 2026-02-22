@@ -32,7 +32,7 @@ Control methods supported:
 ## 3. System Architecture
 
 ### Block Diagram (Conceptual)
-`
+```
 ┌────────────────────┐
 │ Amazon Alexa       │
 │ (Voice Commands)   │
@@ -54,7 +54,7 @@ Control methods supported:
 Physical Push Buttons ──→ ESP32 GPIO  
 EEPROM ────────────────→ State Storage  
 USB (Laptop) ──────────→ Power Supply
-`
+```
 ---
 
 ## 4. Hardware Components (Materials Used)
@@ -205,7 +205,6 @@ Alexa → RainMaker Cloud → ESP32 → LED → EEPROM
 - Replace LEDs with relay modules for real appliances
 - Add OTA firmware updates
 - Integrate energy monitoring
-- Extend support to Google Assistant
 
 ---
 

@@ -31,7 +31,7 @@ Control methods supported:
 
 ## 3. System Architecture
 
-### Block Diagram (Conceptual)
+### Block Diagram 
 ```
 ┌────────────────────┐
 │ Amazon Alexa       │
@@ -57,7 +57,7 @@ USB (Laptop) ──────────→ Power Supply
 ```
 ---
 
-## 4. Hardware Components (Materials Used)
+## 4. Hardware Components
 
 | Component | Quantity | Purpose |
 |--------|----------|--------|

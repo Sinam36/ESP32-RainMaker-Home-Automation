@@ -5,7 +5,7 @@
 ## 1. Project Overview
 
 This project demonstrates a cloud-enabled home automation prototype built using an ESP32 microcontroller.  
-The system controls four independent loads, implemented using LEDs, and supports local, cloud, and voice-based control.
+The system controls four independent loads, implemented using LEDs, and supports local,cloud, and voice-based control.
 
 The ESP32 is powered directly via USB from a laptop, making the setup safe, compact, and suitable for laboratory and academic demonstrations.
 

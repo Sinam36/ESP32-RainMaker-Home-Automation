@@ -16,7 +16,7 @@ Control methods supported:
 
 ---
 
-## 2. Key Features ✨
+## 2. Key Features 
 
 - Four independent LED-based loads
 - ESP RainMaker cloud integration
@@ -71,7 +71,7 @@ USB (Laptop) ──────────→ Power Supply
 
 ---
 
-## 5. Power Supply🔋
+## 5. Power Supply
 
 - The ESP32 is powered only via USB from a laptop.
 - No external adapters or high-voltage components are used.
@@ -139,7 +139,7 @@ Button press results in:
 
 ---
 
-### 8.3 EEPROM State Persistence💾
+### 8.3 EEPROM State Persistence
 
 - LED states are stored in EEPROM.
 - After power loss or reset, the ESP32 reads stored values and restores all LED states automatically.
@@ -161,7 +161,7 @@ Button press results in:
 
 ---
 
-### 8.5 Amazon Alexa Voice Control🗣️
+### 8.5 Amazon Alexa Voice Control
 
 - Devices are automatically discovered by Amazon Alexa.
 - Example commands:
@@ -192,7 +192,7 @@ Alexa → RainMaker Cloud → ESP32 → LED → EEPROM
 
 ---
 
-## 10. Safety & Design Notes ⚠️
+## 10. Safety & Design Notes 
 
 - No AC mains or relay modules are used
 - LEDs replace real appliances for safety
